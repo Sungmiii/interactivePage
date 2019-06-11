@@ -278,15 +278,19 @@ body {
 .greenbutton {
     z-index: 1;
     position: absolute;
-    top:-4%;
-    left:50%;
+    /* top:-4%;
+    left:50%; */
+    top:-40%;
+    left: 25%;
 }
 
 .redbutton{
     z-index: 1;
     position: absolute;
-    top:-10%;
-    left:45%;
+    /* top:-10%;
+    left:45%; */
+    top:-40%;
+    left:20%;
     display: none;
 }
 
